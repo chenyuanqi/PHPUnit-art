@@ -21,7 +21,7 @@ class HelloTest extends PHPUnit_Framework_TestCase
 
     public function testSayHelloToOwner()
     {
-        $helloObj = new Hello('chenyuanqi');
+        $helloObj = new Hello('phper');
         /**
          * assertEquals function
          * @param first  assert value what expect
